@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MeTuA
-- 🌱 I’m currently learning GO
+- 🌱 I’m Go developer
 - 📫 How to reach me: merey.tursyn.8@gmail.com
 <!---
 MeTuA/MeTuA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
